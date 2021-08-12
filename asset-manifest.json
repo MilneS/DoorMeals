@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/DoorMeals/static/css/main.1d96818c.chunk.css",
-    "main.js": "/DoorMeals/static/js/main.7d924b64.chunk.js",
-    "main.js.map": "/DoorMeals/static/js/main.7d924b64.chunk.js.map",
-    "runtime-main.js": "/DoorMeals/static/js/runtime-main.8461f1a5.js",
-    "runtime-main.js.map": "/DoorMeals/static/js/runtime-main.8461f1a5.js.map",
-    "static/js/2.084d0d1a.chunk.js": "/DoorMeals/static/js/2.084d0d1a.chunk.js",
-    "static/js/2.084d0d1a.chunk.js.map": "/DoorMeals/static/js/2.084d0d1a.chunk.js.map",
-    "index.html": "/DoorMeals/index.html",
-    "static/css/main.1d96818c.chunk.css.map": "/DoorMeals/static/css/main.1d96818c.chunk.css.map",
-    "static/js/2.084d0d1a.chunk.js.LICENSE.txt": "/DoorMeals/static/js/2.084d0d1a.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/DoorMeals/static/media/meals.2971f633.jpg"
+    "main.css": "/doormeals/static/css/main.1d96818c.chunk.css",
+    "main.js": "/doormeals/static/js/main.7d924b64.chunk.js",
+    "main.js.map": "/doormeals/static/js/main.7d924b64.chunk.js.map",
+    "runtime-main.js": "/doormeals/static/js/runtime-main.6ae2bd31.js",
+    "runtime-main.js.map": "/doormeals/static/js/runtime-main.6ae2bd31.js.map",
+    "static/js/2.084d0d1a.chunk.js": "/doormeals/static/js/2.084d0d1a.chunk.js",
+    "static/js/2.084d0d1a.chunk.js.map": "/doormeals/static/js/2.084d0d1a.chunk.js.map",
+    "index.html": "/doormeals/index.html",
+    "static/css/main.1d96818c.chunk.css.map": "/doormeals/static/css/main.1d96818c.chunk.css.map",
+    "static/js/2.084d0d1a.chunk.js.LICENSE.txt": "/doormeals/static/js/2.084d0d1a.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/doormeals/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8461f1a5.js",
+    "static/js/runtime-main.6ae2bd31.js",
     "static/js/2.084d0d1a.chunk.js",
     "static/css/main.1d96818c.chunk.css",
     "static/js/main.7d924b64.chunk.js"
