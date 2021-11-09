@@ -16,3 +16,13 @@
   font: inherit;
   padding-left: 0.5rem;
 }
+
+@media (max-width: 425px){
+  .input {
+    flex-direction: column
+  }
+  .input label, .input input {
+    margin-bottom: 8px;
+  }
+};
+  
